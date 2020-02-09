@@ -7,3 +7,7 @@
 - 일반적인 Deep Learning (Binary category, Multiple category, Logistic Regression)
 - 그외 특별한 인공신경망 구조 구현은 Tensorflow 사용 불가피
 
+## AWS EC2 (p2.xlarge)
+- AMI p2.xlarge 
+- Jupyter notebook 셋팅
+- Keras 설치
